@@ -1,0 +1,35 @@
+.image{
+    width: 120px;
+    padding-left: 0.5cm;
+}
+
+.paddings{
+    padding-right: 2cm;
+    padding-left: 2cm;
+}
+
+main{
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    background-color: rgba(248, 237, 187, 0.561);
+}
+
+@media screen and (max-width: 992px) {
+    main {
+      background-color: rgb(224, 222, 218);
+    }
+  }
+
+.center{
+    text-align: center;
+}
+
+img {
+    border-radius: 25%;
+  }
+
+  .paddings2{
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+}
+
