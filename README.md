@@ -2,4 +2,4 @@
 
 <h3>Take a look at the following link:</h3>
 
-<a href="https://4rch1tect.github.io/Product-Landing-Project/" target="_blank" >Product Landing Project/<a>
+<a href="https://4rch1tect.github.io/Product-Landing-Project/" target="_blank" >Product Landing Project<a>
